@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-I am a student,i love palyaing games.
+I am a student,i love playing games.
